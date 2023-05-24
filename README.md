@@ -51,3 +51,12 @@ Para isso, você precisa modificar os dados de dentro do objeto salvo no useStat
 - Peso
 
 Depois disso, crie novos cards com pokemons diferentes para praticar :) 
+
+
+
+
+https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_Pok%C3%A9mon_names#Generation_I
+
+
+
+https://codesandbox.io/p/github/wylchayer/imutabilidade-e-useState-exercicios/main?file=/src/App.jsx:1,1&preventWorkspaceRedirect=tru
